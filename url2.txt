@@ -1,1 +1,1 @@
-https://anistream-v1.vercel.app
+https://anistream-v2.vercel.app
